@@ -2,4 +2,5 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html,css,Javascript 
 - 💞️ I’m looking to collaborate on development
-- 📫 How to reach me ericwillian2018@gmail.com 
+- 📫 How to reach me eric.lino.coder@gmail.com
+- 
